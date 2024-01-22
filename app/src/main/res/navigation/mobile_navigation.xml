@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/todayFragment"
         android:name="com.olegstashkiv.umbrella.presentation.ui.today.TodayFragment"
-        android:label="fragment_today"
+        android:label="@string/title_today"
         tools:layout="@layout/fragment_today">
         <argument
             android:name="selectedLocation"
