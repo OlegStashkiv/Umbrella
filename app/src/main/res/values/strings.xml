@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Umbrella</string>
+    <string name="title_today">Today</string>
+    <string name="title_week">Week</string>
+    <string name="title_settings">Settings</string>
+    <string name="label_temperature">%s°</string>
+    <string name="label_datetime">%1$s | %2$s</string>
+    <string name="label_temp_max_and_min">H:%s°, L:%s°</string>
+    <string name="label_rain">%s%%</string>
+    <string name="label_wind_speed">%s m/s</string>
+    <string name="label_humidity">%s%%</string>
+    <string name="next_7_day"><![CDATA[Next 7 Day >]]></string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="rain">Rain</string>
+    <string name="change_city">change city</string>
+    <string name="toast_location_permission_required">Location permission is required to use the weather app.</string>
+    <string name="forecast_not_available">Forecast not available</string>
+    <string name="internet_text">Couldn\'t fetch weather data. Please check your internet connection and try again. Make sure the city exists and try entering the city name again.</string>
+    <string name="add_location">add location</string>
+</resources>
